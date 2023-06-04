@@ -1,6 +1,8 @@
 .design{
 
-    border: 2px dashed black;
+    border: 3px dashed ;
+    border-image: url(blue-columbine-flower.jpg.webp) 30 stretch;
     margin: 180px 120px;
     padding: 15px;
+    
 }
